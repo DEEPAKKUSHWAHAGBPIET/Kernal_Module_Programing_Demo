@@ -1,8 +1,7 @@
 ### Output:
-```
+
 ![output_syscalls](https://github.com/user-attachments/assets/32fc9ecb-7d5e-4b6c-a8c1-8326bcabd687)
 
-```
 
 ## User Space
 ```
